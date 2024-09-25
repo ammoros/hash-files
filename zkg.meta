@@ -1,0 +1,8 @@
+[package]
+name = hash-files
+namespace = ammoros
+description = Define which hashing algorithm to use with files
+credits = Romain <romain.ollier.perso@gmail.com>
+script_dir = .
+depends = 
+zeek >=4.0.0
